@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Barcode reader</string>
+    <string name="scan">Сканирование</string>
+    <string name="stopScanning">Конец сканирования</string>
+    <string name="sendPhoto">Отправить фотографию</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
